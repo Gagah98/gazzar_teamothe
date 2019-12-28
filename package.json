@@ -25,6 +25,6 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "handlebars": "^4.1.2"
+        "handlebars": "^4.3.0"
     }
 }
